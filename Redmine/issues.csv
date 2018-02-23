@@ -1,0 +1,8 @@
+#;Projet;Tracker;Tche parente;Statut;Priorit;Sujet;Auteur;Assign ;Mis--jour;Catgorie;Version cible;Dbut;Echance;Temps estim;Temps estim total;Temps pass;Temps pass total;% ralis;Cr;Ferm;Demandes lies;Prive;Description
+7;KameNetwork;Rseau;;Nouvelle;Normale;Estimer l'architecture physique cablge;Paul Moyse;Paul Moyse;3/12/2017 14:23;;;1/12/2017;31/12/2017;8;8;0;0;20;3/12/2017 14:23;;;Non;
+6;KameNetwork;Communication;;Nouvelle;Basse;Vido prsentation KameNetwork;Paul Moyse;Paul Moyse;3/12/2017 14:20;;;8/1/2018;29/01/2018;20;20;0;0;50;3/12/2017 14:20;;;Non;Dans le cadre de notre projet, nous devons raliser une vido de prsentation de notre entreprise, vous retrouverez l'avant premire sur notre site.
+5;KameNetwork;Systme;;En cours;Normale;Evaluer le systme de gestion d'annuaire;Paul Moyse;Paul Moyse;2/12/2017 22:18;;;2/12/2017;8/12/2017;2;2;0;0;30;2/12/2017 22:18;;;Non;
+4;KameNetwork;Rseau;;Termine;Haute;Crer plan d'adressage IPv4/v6;Paul Moyse;Loic Grimodau;2/12/2017 12:17;;;22/11/2017;1/12/2017;2;2;2;2;100;2/12/2017 12:16;2/12/2017 12:17;;Non;
+3;KameNetwork;Gestion de projet;;Termine;Normale;Crer un Gantt;Paul Moyse;Paulin Carles;2/12/2017 12:05;;;13/11/2017;1/12/2017;4;4;4;4;100;2/12/2017 12:05;2/12/2017 12:05;;Non;
+2;KameNetwork;Rseau;;En cours;Haute;Crer architecture physique;Paul Moyse;Paul Moyse;2/12/2017 11:52;;;16/11/2017;6/12/2017;15;15;12;12;80;2/12/2017 11:51;;;Non;
+1;KameNetwork;Communication;;Termine;Normale;Crer un site Web;Paul Moyse;Loic Grimodau;2/12/2017 12:04;;;16/10/2017;30/10/2017;8;8;8;8;100;2/12/2017 11:50;2/12/2017 11:52;;Non;
